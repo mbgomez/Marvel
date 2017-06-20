@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Comics Shop</string>
+
+
+    <!-- Generic -->
+    <string name="generic_dismiss">Dismiss</string>
+    <string name="generic_accept">Accept</string>
+    <!-- Legal -->
+    <string name="legal_title">Legal</string>
+    <string name="legal_error_message">Please accept terms and conditions to continue</string>
+    <string name="legal_accpet_message">I accept term and conditions</string>
+
+
+</resources>
